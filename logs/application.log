@@ -1,0 +1,100 @@
+2024-12-10 21:55:43 ERROR com.example.TextAnalyzer - Пожалуйста, укажите путь к текстовому файлу.
+2024-12-10 21:56:26 ERROR com.example.TextAnalyzer - Пожалуйста, укажите путь к текстовому файлу.
+2024-12-14 01:11:26 INFO  com.example.TextAnalyzerGUI - Запуск графического интерфейса.
+2024-12-14 01:11:50 INFO  com.example.TextAnalyzerGUI - Запуск графического интерфейса.
+2024-12-14 01:16:56 INFO  com.example.TextAnalyzerGUI - Launching GUI application
+2024-12-14 01:17:06 INFO  com.example.TextAnalyzerGUI - File test-text.txt successfully loaded
+2024-12-14 01:17:12 WARN  com.example.TextAnalyzerGUI - Attempt to analyze without loading keywords.
+2024-12-14 01:17:17 INFO  com.example.TextProcessor - Loading keywords from file: C:\keywords.txt
+2024-12-14 01:17:17 INFO  com.example.KeywordLoader - Initializing KeywordLoader with file: C:\keywords.txt
+2024-12-14 01:17:17 INFO  com.example.TextProcessor - Loaded keywords: 6
+2024-12-14 01:17:17 INFO  com.example.TextAnalyzerGUI - Keywords loaded from file: keywords.txt
+2024-12-14 01:17:19 INFO  com.example.TextAnalyzerGUI - Text analyzed. Result: Результат анализа текста:
+
+медицинский - врача: 2
+медицинский - исследование: 2
+медицинский - пациента: 4
+медицинский - симптом: 2
+исторический - свидетельство: 1
+криптография - ключа: 1
+финансы - риск: 2
+медицинский - лечения: 2
+медицинский - патология: 1
+медицинский - вирус: 1
+исторический - мир: 4
+исторический - образование: 2
+сети - узлы: 2
+программирование - метод: 1
+медицинский - иммунитет: 1
+медицинский - болезнь: 2
+медицинский - препарат: 3
+сети - узел: 1
+медицинский - пациент: 7
+медицинский - пациенты: 1
+исторический - исследование: 2
+медицинский - врач: 8
+сети - хост: 1
+медицинский - признак: 5
+исторический - миру: 1
+медицинский - лечение: 3
+сети - узлов: 2
+сети - узла: 1
+медицинский - анализ: 1
+программирование - условия: 2
+медицинский - хирург: 3
+сети - анализ: 1
+медицинский - диагноз: 3
+финансы - процент: 1
+медицинский - профилактика: 1
+исторический - изменения: 3
+криптография - ключ: 3
+
+Определенная тема: медицинский
+2024-12-14 01:29:02 INFO  com.example.TextAnalyzerGUI - Launching GUI application
+2024-12-14 02:18:22 INFO  com.example.TextAnalyzerGUI - Launching GUI application
+2024-12-14 02:18:31 INFO  com.example.TextAnalyzerGUI - File test-text.txt successfully loaded
+2024-12-14 02:18:35 INFO  com.example.TextProcessor - Loading keywords from file: C:\keywords.txt
+2024-12-14 02:18:35 INFO  com.example.KeywordLoader - Initializing KeywordLoader with file: C:\keywords.txt
+2024-12-14 02:18:35 INFO  com.example.TextProcessor - Loaded keywords: 6
+2024-12-14 02:18:35 INFO  com.example.TextAnalyzerGUI - Keywords loaded from file: keywords.txt
+2024-12-14 02:18:42 INFO  com.example.TextAnalyzerGUI - Text analyzed. Result: Результат анализа текста:
+
+медицинский - врача: 2
+медицинский - исследование: 2
+медицинский - пациента: 4
+медицинский - симптом: 2
+исторический - свидетельство: 1
+криптография - ключа: 1
+финансы - риск: 2
+медицинский - лечения: 2
+медицинский - патология: 1
+медицинский - вирус: 1
+исторический - мир: 4
+исторический - образование: 2
+сети - узлы: 2
+программирование - метод: 1
+медицинский - иммунитет: 1
+медицинский - болезнь: 2
+медицинский - препарат: 3
+сети - узел: 1
+медицинский - пациент: 7
+медицинский - пациенты: 1
+исторический - исследование: 2
+медицинский - врач: 8
+сети - хост: 1
+медицинский - признак: 5
+исторический - миру: 1
+медицинский - лечение: 3
+сети - узлов: 2
+сети - узла: 1
+медицинский - анализ: 1
+программирование - условия: 2
+медицинский - хирург: 3
+сети - анализ: 1
+медицинский - диагноз: 3
+финансы - процент: 1
+медицинский - профилактика: 1
+исторический - изменения: 3
+криптография - ключ: 3
+
+Определенная тема: медицинский

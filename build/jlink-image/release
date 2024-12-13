@@ -1,0 +1,2 @@
+JAVA_VERSION="21.0.5"
+MODULES="java.base java.datatransfer java.xml java.prefs java.desktop javafx.base jdk.unsupported javafx.graphics javafx.controls java.scripting javafx.fxml java.logging java.transaction.xa java.sql org.apache.logging.log4j com.example java.compiler java.management java.security.sasl java.naming java.rmi com.example.merged.module"
