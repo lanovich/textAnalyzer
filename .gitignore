@@ -1,29 +1,50 @@
-### IntelliJ IDEA ###
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
-
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
+# Игнорирование выходных директорий
+/build/
+/out/
 /dist/
-/nbdist/
-/.nb-gradle/
 
-### VS Code ###
-.vscode/
+# Игнорирование временных файлов IntelliJ IDEA
+/.idea/
+/*.iml
 
-### Mac OS ###
+# Игнорирование системных файлов
+*.log
+*.class
+*.war
+*.ear
+*.jar
+
+# Игнорирование файлов Gradle
+/.gradle/
+/gradle/
+/build.gradle.kts
+/gradle-wrapper.jar
+
+# Игнорирование временных файлов операционной системы
 .DS_Store
+Thumbs.db
+desktop.ini
+
+# Игнорирование временных файлов IDE
+*.swp
+*.swo
+*.bak
+
+# Игнорирование Javadoc выходных файлов
+/docs/
+
+# Игнорирование конфигураций среды
+*.env
+.env
+
+# Игнорирование артефактов jlink и jpackage
+/jre/
+/image/
+/runtime/
+
+# Игнорирование других временных файлов
+*.tmp
+*.temp
+
+# Исключение для README.md
+!README.md
