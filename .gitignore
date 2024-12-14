@@ -16,6 +16,7 @@
 
 # Игнорирование файлов Gradle
 /.gradle/
+/gradle/
 /build.gradle.kts
 /gradle-wrapper.jar
 
