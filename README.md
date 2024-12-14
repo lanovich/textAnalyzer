@@ -22,7 +22,7 @@
 Клонируйте репозиторий на свою локальную машину:
 
 ```bash
-git clone https://github.com/yourusername/text-analyzer.git
+git@github.com:lanovich/textAnalyzer.git
 cd text-analyzer
 ```
 
